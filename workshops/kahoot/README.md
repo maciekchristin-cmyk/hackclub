@@ -1,5 +1,5 @@
 ---
-name: 'Hacking Kahoot'
+name: 'mati'
 description: 'A learning activity focused around the Kahoot API'
 author: '@sampoder'
 img: 'https://cloud-h0ul1djmv.vercel.app/0image.png'
@@ -60,7 +60,7 @@ Then comes the challenge section. Begin by doing as the slides instruct. However
 const Kahoot = require("kahoot.js-updated"); 
 const client = new Kahoot();
 
-client.join('000000', Math.random() + "- Your Name");
+client.join('9952032', Math.random() + "- mati");
 
 function verifyProperty(array, property) {
   let finalNo
